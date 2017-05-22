@@ -20,7 +20,7 @@ test_requirements = [
 
 setup(
     name='sfconfig',
-    version='0.1.0',
+    version='0.1.1',
     description="SmartFleet Config utility package",
     long_description=readme + '\n\n' + history,
     author="Timo Folkert Lesterhuis",
